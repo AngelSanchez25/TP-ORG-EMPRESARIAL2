@@ -1,21 +1,16 @@
-# TP-ORG-EMPRESARIAL2
+# TP Gestión Colaborativa
 
-## Integrantes
-- Valentino Altamira
+Integrantes:
 - Angel Sanchez
+- Valentino Altamira
 
-## Escenario elegido
-Análisis de Ventas
+Escenario:
+Análisis de ventas
 
-## Descripción
-Proyecto realizado utilizando Git, GitHub, Jira y Google Colab.
-
-## Estructura
-
+Estructura:
 datos/
 scripts/
 resultados/
 
-## Ejecución
-
+Ejecución:
 Ejecutar scripts/analisis.py
